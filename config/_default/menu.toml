@@ -16,9 +16,9 @@ url = "https://github.com/ash-development"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/ashiesflicks"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-instagram"
