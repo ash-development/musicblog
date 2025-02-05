@@ -1,10 +1,10 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: WMSC Radio
+    description: WMSC is a non-commercial, college radio station located at and owned by Montclair State University in Montclair, New Jersey, United States.
+    website: https://wmscradio.com
+    image: https://wmscradio.com/wp-content/uploads/sites/4/2018/10/icon.jpg
 menu:
     main: 
         weight: 4
